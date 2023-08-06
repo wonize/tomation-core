@@ -1,0 +1,9 @@
+{
+	"name": "boilerplate-generator",
+	"version": "1.0.0",
+	"main": "scripts/main.js",
+	"license": "MIT",
+	"devDependencies": {
+		"typescript": "^5.1.6"
+	}
+}
